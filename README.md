@@ -19,3 +19,6 @@
     `python producer.py`
 5. Execute o consumidor no Kafka:
     `python consumer.py`
+
+## Créditos
+- Alvaro Carvalho
